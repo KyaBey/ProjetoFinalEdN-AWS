@@ -129,13 +129,17 @@ body{
 }
 
 .redes-sociais .curriculo{
-    background-color: #06c185;
+    background-color: #f02166;
 }
 
 .redes-sociais .linkedin{
-    background-color: #1d87bd;
+    background-color: #2124d6;
 }
 
 .redes-sociais .github{
-    background-color: #545454;
+    background-color: #1e660c;
+}
+
+.redes-sociais .certificados{
+    background-color: #9f0fb3;
 }
